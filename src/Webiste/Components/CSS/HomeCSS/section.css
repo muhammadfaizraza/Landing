@@ -1,0 +1,251 @@
+.bannerHome{
+    background: linear-gradient(180deg, #078BE6 0%, #19469D 100%);
+    border-radius: 20px;
+    height: min(20rem,40rem);
+}
+.bannerCard > img{
+    float: right;
+    margin: 2rem;
+}
+
+.chartPrediction{
+    display: flex;
+    gap: 1.1rem;
+    margin-top: 7.7rem;
+}
+.GraphCard{
+    flex:1 ;
+    height: min(20rem,40rem);
+    background: linear-gradient(180deg, rgba(7, 139, 230, 0.1) 0%, rgba(25, 70, 157, 0.1) 100%);
+    background-blend-mode: luminosity;
+    border-radius: 20px;
+}
+.PredictionCard{
+    flex:1 ;
+    height: min(20rem,40rem);
+background-color: #6a6969;    
+border-radius: 20px;
+}
+.endsection{
+    display: flex;
+    justify-content: end;
+    margin-top: 1.1rem;
+    width: 98%;
+    margin-inline: auto;
+}
+.AdsCard {
+    background: #C4C4C4;
+    width: 100%;
+    height: fit-content;
+    position: sticky;
+    top: 0;
+}
+.AdsCard h1{
+    text-align: center;
+}
+.PredictionFlex{
+    display: flex;
+    justify-content: space-between;
+}
+.Predictiontable{
+    display: flex;
+    width: 90%;
+    margin-inline: auto;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+.stickyads {
+    width: 75%;
+}
+.aab {
+    flex: 1;
+}
+.middlesectioninner {
+    width: 24%;
+}
+.newabc {
+    width: 75%;
+}
+.presictData h6{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    color: #fff;
+    margin: 20px 0 0 30px;
+}
+.MatchDataPredict h3{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22.5949px;
+line-height: 7px;
+margin: 20px 0 0 30px;
+color: #FFFFFF;
+}
+.PredictionFlex{
+    width: 95%;
+    margin-inline: auto;
+}
+.PredictionFlex :nth-child(1){
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22.5949px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin: 20px 0 0 20px;
+    
+}
+.PredictionFlex :nth-child(2){
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15.5949px;
+line-height: 19px;
+
+color: #FFFFFF;
+    margin: 20px 0 0 20px;
+}
+.PredictionFlex :nth-child(3){
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15.5949px;
+line-height: 19px;
+color: #5EC40F;
+margin: 20px 20px 0 20px;
+}
+.playerPredictTable{
+    margin-inline: auto;
+    width: 96%;
+    height: min(11.8rem,38rem);
+    background: #FFFFFF;
+    border-radius: 17px;
+    margin-top: 11px;
+
+}
+
+.calenderin{
+    width: 90%;
+    margin: auto;
+    
+}
+
+.react-calendar {
+    width: 90%;
+    max-width: 100%;
+    background: white;
+    border: 1px solid #a0a096;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125em;
+    margin: auto;
+    border-radius: 20px 20px 20px 20px;
+}
+.Currentpostdiv{
+    width: 89%;
+    margin-inline: auto;
+    height: fit-content;
+    background-color: #EFEFEF;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 20px;
+}
+.newpost{
+    min-height: 700px;
+    /* height: 700px; */
+    background: #19469D;
+    margin: 0px;
+    padding: 20px px 0px 20px 0px;
+    border-radius: 0px 20px 20px 20px;
+    overflow: auto;
+    margin-bottom: 12px;
+
+}
+.chartPrediction {
+    display: flex;
+    gap: 1.1rem;
+    margin-top: 0.7rem !important;
+}
+.nav-tabs {
+    border: none !important;
+    width: 100%;
+    margin-inline: auto;
+    margin-top: 20px;
+    color: #fff;
+}
+/* .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border: none;
+    color: #fff;
+    font-weight: 700;
+    background-color: #19469D;
+} */
+.nav-tabs .nav-link{
+ color: #fff;
+}
+.tab-content {
+    margin-top: -24px;
+    margin-bottom: 15px;
+
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border: none;
+    color: #fff !important;
+    font-weight: 700;
+    background-color: #19469D !important;
+}
+ul.mb-3.RaceNavItem.nav.nav-tabs {
+    margin-left: 20px;
+}
+
+.calendericon{
+    color: #000;
+    font-size: 18px;
+}
+.nav-link {
+color: #000;
+font-size: 18px;
+}
+.Currentpostdiv h3{
+    text-align: center;
+    color: #000;
+}
+.Currentpostheader{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-inline: auto;
+    margin-top: 12px
+}
+.Currentpostheader h2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 19px;
+margin-top: 20px;
+color: #000000;
+}
+.Currentpostheader img{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 19px;
+margin-top: 10px;
+color: #000000;
+}
+.Competitionitem{
+    border-radius: 21px;
+    margin: 8px;
+}
+.accordion-button .collapsed{
+border-radius: 20px;
+}
+/* .customers12 > span > p:nth-child(2){
+    width: 15%;
+    text-align: start;
+} */
+.Currentpostheader img {
+    height: 40px;
+    width: 50px;
+  }
